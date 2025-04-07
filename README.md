@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Hi 👋! My name is Samuel and I'm a FullStack developer, Blockchain developer , from Brazil.</h2>
+<h2 align="center">Hi 👋! My name is Samuel and I'm a FullStack developer, Blockchain developer, from Brazil.</h2>
 
 ###
 
